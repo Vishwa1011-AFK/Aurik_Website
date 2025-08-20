@@ -404,18 +404,6 @@ export default function Home() {
                 >
                   <Linkedin className="h-5 w-5" />
                 </a>
-                <a
-                  href="#"
-                  className="text-muted-foreground hover:text-primary transition-all duration-200 hover:scale-110"
-                >
-                  <Twitter className="h-5 w-5" />
-                </a>
-                <a
-                  href="#"
-                  className="text-muted-foreground hover:text-primary transition-all duration-200 hover:scale-110"
-                >
-                  <Github className="h-5 w-5" />
-                </a>
               </div>
             </div>
 
