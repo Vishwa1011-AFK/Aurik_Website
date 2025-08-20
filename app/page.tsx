@@ -146,7 +146,7 @@ export default function Home() {
             <div className="mt-16 pt-8 border-t border-border/50">
               <p className="text-sm text-muted-foreground mb-6">Trusted by leading companies nationwide</p>
               <div className="flex justify-center items-center space-x-8 opacity-60">
-                <div className="text-2xl font-bold text-muted-foreground">500+</div>
+                <div className="text-2xl font-bold text-muted-foreground">100+</div>
                 <div className="w-px h-8 bg-border"></div>
                 <div className="text-sm text-muted-foreground">Projects Delivered</div>
                 <div className="w-px h-8 bg-border"></div>
