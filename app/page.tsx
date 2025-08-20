@@ -144,7 +144,7 @@ export default function Home() {
 
           <ScrollAnimation delay={800}>
             <div className="mt-16 pt-8 border-t border-border/50">
-              <p className="text-sm text-muted-foreground mb-6">Trusted by leading companies worldwide</p>
+              <p className="text-sm text-muted-foreground mb-6">Trusted by leading companies nationwide</p>
               <div className="flex justify-center items-center space-x-8 opacity-60">
                 <div className="text-2xl font-bold text-muted-foreground">500+</div>
                 <div className="w-px h-8 bg-border"></div>
@@ -255,7 +255,7 @@ export default function Home() {
                   <p className="text-sm font-medium mb-2">
                     "Aurik transformed our operations with intelligent automation that scales with our growth."
                   </p>
-                  <p className="text-xs text-muted-foreground">— Fortune 500 Technology Partner</p>
+                  <p className="text-xs text-muted-foreground">— Technology Partner</p>
                 </div>
               </div>
             </ScrollAnimation>
