@@ -150,7 +150,7 @@ export default function Home() {
                 <div className="w-px h-8 bg-border"></div>
                 <div className="text-sm text-muted-foreground">Projects Delivered</div>
                 <div className="w-px h-8 bg-border"></div>
-                <div className="text-2xl font-bold text-muted-foreground">99.9%</div>
+                <div className="text-2xl font-bold text-muted-foreground">93.4%</div>
                 <div className="w-px h-8 bg-border"></div>
                 <div className="text-sm text-muted-foreground">Uptime SLA</div>
               </div>
